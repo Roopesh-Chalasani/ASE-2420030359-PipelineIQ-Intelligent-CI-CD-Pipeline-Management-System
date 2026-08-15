@@ -66,8 +66,8 @@ README.md   - Project documentation
 Clone the repository:
 
 ```bash
-git clone <REPOSITORY_URL>
-cd <REPOSITORY_NAME>
+git clone 
+cd 
 ```
 
 Install the required dependencies:
