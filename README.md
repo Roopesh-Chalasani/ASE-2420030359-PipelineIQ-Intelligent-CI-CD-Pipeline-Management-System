@@ -15,7 +15,7 @@ PipelineIQ is an intelligent CI/CD pipeline management system designed to automa
 
 ## 3. Supervisor
 
-**Supervisor:** [Supervisor Name]
+**Supervisor:** ROOPESH
 
 ## 4. Abstract
 
